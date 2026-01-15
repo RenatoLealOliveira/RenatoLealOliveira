@@ -26,11 +26,10 @@ Sou um desenvolvedor focado em criar **experiências web dinâmicas** e **automa
 
 ---
 
-### ⚡ GitHub Stats
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=RenatoLealOliveira&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Renato's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoLealOliveira&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</div>
+### ⚡ Meus Princípios
+- 🎯 **Foco no Usuário**: Código limpo é bom, mas resolver o problema do usuário é melhor.
+- 🔄 **Melhoria Contínua**: Hoje melhor que ontem.
+- 🤝 **Open Source**: Acredito no poder da comunidade.
 
 ---
 
@@ -42,11 +41,4 @@ Sou um desenvolvedor focado em criar **experiências web dinâmicas** e **automa
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
 </a>
 
-### 🏆 Conquistas
-[![Trophies](https://github-profile-trophy.vercel.app/?username=RenatoLealOliveira&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 🔥 Sequência de Código
-<a href="https://github.com/RenatoLealOliveira">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RenatoLealOliveira&theme=radical&hide_border=true" alt="Renato's Streak" />
-</a>
 
